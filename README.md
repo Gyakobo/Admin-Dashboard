@@ -4,6 +4,8 @@ Author: [Andrew Gyakobo](https://github.com/Gyakobo)
 
 This is a sample project where I try to build an Admin Dashboard with ReactJS and the AWS S3. 
 
+I also plan to add a database.
+
 ## Installation and Setup
 
 To start with the project, run the following commands:
