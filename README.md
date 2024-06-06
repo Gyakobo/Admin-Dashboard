@@ -16,8 +16,17 @@ I also plan to add a database.
 ## Installation and Setup
 
 To start with the project, run the following commands:
-
 ```bash
 $ npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
+
+The folowing project would also be using the following fonts: `Source Sans 3, sans-serif`
+```css
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,600;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,700;1,700&display=swap');
+```
+
+All the charts and graphs will be sourced from this [website](https://nivo.rocks/components/)
+
 
