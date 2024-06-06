@@ -32,5 +32,5 @@ All the charts and graphs will be sourced from this [website](https://nivo.rocks
 
 
 
-License:
+## License:
 MIT
