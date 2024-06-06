@@ -30,3 +30,7 @@ The folowing project would also be using the following fonts: [Source Sans 3](ht
 All the charts and graphs will be sourced from this [website](https://nivo.rocks/components/)
 
 
+
+
+License:
+MIT
