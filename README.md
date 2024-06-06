@@ -20,7 +20,7 @@ To start with the project, run the following commands:
 $ npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
 ```
 
-The folowing project would also be using the following fonts: `Source Sans 3, sans-serif`
+The folowing project would also be using the following fonts: [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3?query=source+sans+3) and the default [sans-serif](https://en.wikipedia.org/wiki/Sans-serif)
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital@0;1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,600;1,600&display=swap');
